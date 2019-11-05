@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Dependencies type="guid" guid="a28412eb-6aef-49e5-8e34-b132d35fa2c4">
-  <Table name="Horario" />
-  <Table name="Lugar" />
-</Dependencies>

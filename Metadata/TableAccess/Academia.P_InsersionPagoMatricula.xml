@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Dependencies type="guid" guid="dd540ec7-1360-4cb9-b34b-40dee550d3fe">
-  <Table name="Horario" />
-  <Table name="Matricula" />
-  <Table name="PagoMatricula" />
-</Dependencies>

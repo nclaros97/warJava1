@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Dependencies type="guid" guid="c8e8b42d-f158-4290-98c6-1026d6fa3b0d">
-  <Table name="Horario" />
-  <Table name="Docente" />
-</Dependencies>

@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Dependencies type="guid" guid="1e135c41-1a70-4d52-be3e-1b1192d8fe6e">
-  <Table name="Politica" />
-  <Table name="Matricula" />
-  <Table name="Horario" />
-  <Table name="PagoMatricula" />
-</Dependencies>

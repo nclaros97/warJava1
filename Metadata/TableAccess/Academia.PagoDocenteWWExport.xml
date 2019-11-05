@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Dependencies type="guid" guid="e7fb15c4-8382-4cd7-bcc6-07d7013d055f">
-  <Table name="Curso" />
-  <Table name="CursoNivel" />
-  <Table name="Horario" />
-  <Table name="Docente" />
-  <Table name="PagoDocente" />
-  <Table name="PoliticaPagoDocentes" />
-</Dependencies>
