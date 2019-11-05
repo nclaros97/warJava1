@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="e9a1352a-b5b8-4188-bd23-2818e62c3665">
+  <Table name="ParametrosMora" />
+  <Table name="PeriodosMora" />
+  <Table name="RegistroMoras" />
+</Dependencies>

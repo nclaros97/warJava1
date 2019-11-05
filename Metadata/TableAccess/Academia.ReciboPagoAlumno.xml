@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="a8a26d0c-1456-413a-8a7d-06756595ebb3">
+  <Table name="Alumno" />
+  <Table name="Matricula" />
+  <Table name="PagoMatricula" />
+</Dependencies>
