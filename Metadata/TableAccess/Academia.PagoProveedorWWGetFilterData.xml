@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="653ed5d0-021a-4c84-a3bb-a23970037799">
+  <Table name="Proveedor" />
+  <Table name="PagoProveedor" />
+</Dependencies>

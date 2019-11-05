@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="79a170b8-105b-4ca4-96ab-aa1c4d4f23b4">
+  <Table name="Horario" />
+  <Table name="Docente" />
+  <Table name="Alumno" />
+  <Table name="Matricula" />
+  <Table name="Proveedor" />
+  <Table name="PagoDocente" />
+  <Table name="PagoMatricula" />
+  <Table name="PoliticaPagoDocentes" />
+  <Table name="PagoProveedor" />
+</Dependencies>

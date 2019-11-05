@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="a59d0e18-becb-46d2-b5c2-7c6b9a61b056">
+  <Table name="PagoMatricula" />
+  <Table name="ParametrosMora" />
+  <Table name="RegistroMoras" />
+</Dependencies>

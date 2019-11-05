@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="95e29fba-1660-4e56-a3d1-20acb46902a4">
+  <Table name="PagoDocente" />
+  <Table name="PoliticaPagoDocentes" />
+</Dependencies>

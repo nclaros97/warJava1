@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="6c5e87c2-5bb7-4e54-8772-987ac654df24">
+  <Table name="Politica" />
+  <Table name="Matricula" />
+</Dependencies>

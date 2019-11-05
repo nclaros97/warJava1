@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="7d145bcc-2583-471e-a3ce-1f6fb2c503fe">
+  <Table name="Curso" />
+  <Table name="CursoNivel" />
+  <Table name="Horario" />
+  <Table name="Docente" />
+  <Table name="Lugar" />
+</Dependencies>
